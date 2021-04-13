@@ -1,0 +1,5 @@
+C:\Users\yildi\source\repos\PhoneDirectory\src\PhoneDirectory\Data\bin\Debug\net5.0\Entities.dll
+C:\Users\yildi\source\repos\PhoneDirectory\src\PhoneDirectory\Data\obj\Debug\net5.0\Data.csprojAssemblyReference.cache
+C:\Users\yildi\source\repos\PhoneDirectory\src\PhoneDirectory\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\source\repos\PhoneDirectory\src\PhoneDirectory\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\yildi\source\repos\PhoneDirectory\src\PhoneDirectory\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
