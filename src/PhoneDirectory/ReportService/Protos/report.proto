@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option csharp_namespace = "ReportService.Protos";
+
+package report;
+
+// The report service definition.
+service Greeter {
+  // Sends a report
+  rpc SayHello (ReportRequest) returns (ReportReply);
+}
+
+// The request message containing the report.
+message ReportRequest {
+  int id = 0;
+}
+
+// The response message containing the report.
+message ReportReply {
+  string message = 1;
+}
